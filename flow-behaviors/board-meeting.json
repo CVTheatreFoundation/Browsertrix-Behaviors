@@ -1,0 +1,746 @@
+{
+    "title": "Recording 5/16/2025 at 10:39:03 AM",
+    "selectorAttribute": "a[href]",
+    "steps": [
+        {
+            "type": "setViewport",
+            "width": 1133,
+            "height": 817,
+            "deviceScaleFactor": 1,
+            "isMobile": false,
+            "hasTouch": false,
+            "isLandscape": false
+        },
+        {
+            "type": "navigate",
+            "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      All Future Meetings",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 2,
+            "offsetX": 89.3671875
+        },
+        {
+            "type": "change",
+            "value": "2025",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2025",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2025",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 13,
+            "offsetX": 90.3671875
+        },
+        {
+            "type": "change",
+            "value": "2024",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2024",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2024",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 7,
+            "offsetX": 88.3671875
+        },
+        {
+            "type": "change",
+            "value": "2023",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2023",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2023",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 20,
+            "offsetX": 84.3671875
+        },
+        {
+            "type": "change",
+            "value": "2022",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2022",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2022",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 19,
+            "offsetX": 85.3671875
+        },
+        {
+            "type": "change",
+            "value": "2021",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2021",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2021",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 22,
+            "offsetX": 82.3671875
+        },
+        {
+            "type": "change",
+            "value": "2020",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2020",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2020",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 8,
+            "offsetX": 92.3671875
+        },
+        {
+            "type": "change",
+            "value": "2019",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2019",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2019",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 8,
+            "offsetX": 84.3671875
+        },
+        {
+            "type": "change",
+            "value": "2018",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2018",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2018",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 22,
+            "offsetX": 67.3671875
+        },
+        {
+            "type": "change",
+            "value": "2017",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2017",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2017",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 4,
+            "offsetX": 62.3671875
+        },
+        {
+            "type": "change",
+            "value": "2016",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2016",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2016",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 25,
+            "offsetX": 67.3671875
+        },
+        {
+            "type": "change",
+            "value": "2015",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2015",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2015",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 22,
+            "offsetX": 75.3671875
+        },
+        {
+            "type": "change",
+            "value": "2014",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2014",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2014",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 9,
+            "offsetX": 82.3671875
+        },
+        {
+            "type": "change",
+            "value": "2013",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2013",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2013",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 10,
+            "offsetX": 87.3671875
+        },
+        {
+            "type": "change",
+            "value": "2012",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2012",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        },
+        {
+            "type": "click",
+            "target": "main",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2012",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "offsetY": 15,
+            "offsetX": 93.3671875
+        },
+        {
+            "type": "change",
+            "value": "2000",
+            "selectors": [
+                [
+                    "#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "xpath///*[@id=\"ctl00_ContentPlaceHolder1_ddlMeetings\"]"
+                ],
+                [
+                    "pierce/#ctl00_ContentPlaceHolder1_ddlMeetings"
+                ],
+                [
+                    "aria/Select Year:      2000",
+                    "aria/[role=\"combobox\"]"
+                ]
+            ],
+            "target": "main",
+            "assertedEvents": [
+                {
+                    "type": "navigation",
+                    "url": "https://chartiersvalleypublic.ic-board.com/com/agenda_list.aspx",
+                    "title": ""
+                }
+            ]
+        }
+    ]
+}
